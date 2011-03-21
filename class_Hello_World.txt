@@ -1,0 +1,8 @@
+#this is a simple Python "Hello World" code
+
+class Hello_World():
+	def __init__(self):
+		print 'hello world'
+
+	def __del__(self):
+		print 'deleting object: Hello_World'
